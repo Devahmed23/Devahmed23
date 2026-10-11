@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Syed Ahmed Khalid
 
-🚀 **Software Engineer** | 🎨 **UI/UX Designer**
+🚀 **Software Engineer** 
 
 I’m a frontend-focused software engineer who loves building clean, scalable, and user-friendly web applications. I blend **engineering precision** with **design thinking** to create experiences that not only work well — but feel right.
 
